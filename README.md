@@ -12,6 +12,7 @@
 
 ## Getting started (to run a local copy)
 
+## Fork to update dependecies from Rails 5.2 to 6.1 and Ruby version to 3.0.
 
 * System dependencies
 
